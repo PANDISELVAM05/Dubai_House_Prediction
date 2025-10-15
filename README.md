@@ -1,6 +1,5 @@
-# Dubai_House_Prediction
+# Dubai House Prediction
 
-# Dubai House Price Prediction
 # Project Overview
 
 The Dubai House Price Prediction project aims to analyze and visualize the real estate market in Dubai using data analytics techniques.
